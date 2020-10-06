@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+void pembagian(double a, double b){
+cout<<"Hasil Perkalian = "<< a / b<<"\n";
+}
+
 int main(){
 
 double i,j;
